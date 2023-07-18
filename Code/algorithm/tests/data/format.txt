@@ -1,0 +1,2 @@
+for now 
+vertex1 vertex2 1 for Red 2 for blue

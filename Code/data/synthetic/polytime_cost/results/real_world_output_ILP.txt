@@ -1,0 +1,3 @@
+
+../data/synthetic/polytime_cost/realworld/realworld/football.txt 65.0 270
+../data/synthetic/polytime_cost/realworld/realworld/lesmis.txt 207.0 6925

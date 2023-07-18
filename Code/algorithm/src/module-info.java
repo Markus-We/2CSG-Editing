@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Markus
+ *
+ */
+module TwoColoredSplitGraphEditing {
+}

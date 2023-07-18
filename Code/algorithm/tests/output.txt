@@ -1,0 +1,25 @@
+inputfile n k cliquesize time
+
+
+C:\Users\Markus\master-markus\Code\data\synthetic\polytime_cost\all_k\random_split_25_1_k70.txt 24 6.0 9 8
+C:\Users\Markus\master-markus\Code\data\synthetic\polytime_cost\all_k\random_split_25_1_k70.txt 24 6.0 9 8
+C:\Users\Markus\master-markus\Code\data\synthetic\polytime_cost\all_k\random_split_25_1_k70.txt 24 6.0 9 7
+C:\Users\Markus\master-markus\Code\data\synthetic\polytime_cost\all_k\random_split_25_1_k70.txt 24 2.0 8 8
+./tests/data/football.txt 35 10.0 2 11
+./tests/data/football.txt 35 65.0 8 2130
+./tests/data/football.txt 35 5.0 5 10
+./tests/data/football.txt 35 22.0 15 17
+./tests/data/football.txt 35 8.0 18 12
+./tests/data/football.txt 35 10.0 5 8
+./tests/data/football.txt 35 5.0 4 10
+./tests/data/football.txt 35 26.0 5 17
+./tests/data/football.txt 35 65.0 8 2006
+./tests/data/football.txt 35 65.0 8 2022
+./tests/data/football.txt 35 65.0 8 2347
+./tests/data/football.txt 35 65.0 8 1991
+./tests/data/football.txt 35 65.0 8 1943
+./tests/data/football.txt 35 65.0 8 1361
+./tests/data/lesmis.txt 77 95.0 0 600002
+./tests/data/train.txt 64 108.0 0 600001
+./tests/data/football.txt 35 65.0 8 453
+./tests/data/football.txt 35 42.0 8 407
