@@ -11,3 +11,8 @@ To adapt them to your machine replace:
 C://Users/Markus/master-markus/Code/data/ (...) with ../data/ (...) for the generation and test scripts and
 
 C://Users/Markus/master-markus/Code/data/synthetic/ (...) with ./ (...) for the plotting.
+
+Also note that the input parameters for the algorithms are [in_file, out_file, cost_red_blue, cost_none_blue] with 
+an optional parameter for the increment. 
+
+The polynomial-time algorithm only takes an in_file and an out_file.
