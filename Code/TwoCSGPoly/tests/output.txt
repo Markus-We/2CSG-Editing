@@ -1,0 +1,11 @@
+
+./tests/data/football.txt 65
+./tests/data/football.txt 65
+C://Users/Markus/master-markus/Code/data/synthetic/polytime_cost/all_n/random_split_78_5_k10_1.txt 11
+C:\Users\Markus\master-markus\Code\data\synthetic\polytime_cost\all_k\random_split_25_1_k70.txt 22
+C:\Users\Markus\master-markus\Code\data\synthetic\polytime_cost\all_k\random_split_25_1_k70.txt 22
+C://Users/Markus/master-markus/Code/data/synthetic/polytime_cost/all_k/random_split_75_1_k85.txt 70
+C://Users/Markus/master-markus/Code/data/synthetic/polytime_cost/all_k/random_split_75_1_k95.txt 68
+C://Users/Markus/master-markus/Code/data/synthetic/polytime_cost/all_k/random_split_100_5_k100.txt 69
+C://Users/Markus/master-markus/Code/data/synthetic/polytime_cost/all_k/random_split_100_6_k90.txt 68
+./tests/data/lesmis.txt 207 60
